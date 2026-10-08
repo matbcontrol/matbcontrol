@@ -6,6 +6,8 @@ Unity developer and technical artist in Tbilisi, Georgia (GMT+4), in game dev si
 
 Projects with code:
 
+- [Nitrate](https://github.com/matbcontrol/Nitrate): a moonlit silhouette loop in Unity 6 URP. The light shafts are raymarched through the shadow map, so the turning windmill sails cut the moonlight on every frame. Procedural geometry, Shader Graph wind in every pass, a film print, 2.46 ms per frame at 1080p on a laptop GTX 1650 Ti. [Video](https://youtu.be/pkpXscO_00M) · [Windows build](https://github.com/matbcontrol/Nitrate/releases/tag/v1.0)
+
 - [InfiniteGarden](https://github.com/matbcontrol/InfiniteGarden): a Manifold Garden-style infinite world in Unity 6 URP, outlines drawn as an anti-aliased distance field in a Render Graph pass, and a frame budget measured on a GTX 1650 Ti and Intel UHD. [Video](https://youtu.be/i1uOZoJlR0w)
 - [massive-objects-showcase](https://github.com/matbcontrol/massive-objects-showcase): 100,000 physics objects in Unity 6 with simulation tiers (Rigidbody, Burst, data), instanced rendering and tests.
 
